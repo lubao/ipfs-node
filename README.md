@@ -25,3 +25,9 @@ https://decentralized.blog/understanding-the-ipfs-white-paper-part-1.html
 
 ### Understanding the IPFS White Paper part 2
 Understanding the IPFS White Paper part 1
+
+# Dive deep
+
+## https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/
+
+## https://www.freecodecamp.org/news/from-zero-to-interplanetary-hero-7e62f7d4427/
