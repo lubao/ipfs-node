@@ -1,4 +1,4 @@
-# ipfs-node
+# ipfs-note
 Note for IPFS implementation.
 
 ## What is a IPFS Repo
@@ -9,3 +9,7 @@ https://github.com/ipfs/kubo/blob/master/docs/add-code-flow.md
 
 ## IPFS GO DS S3
 https://github.com/ipfs/go-ds-s3
+
+## Kubo Map of Implemented Subsystems
+https://github.com/ipfs/kubo#map-of-implemented-subsystems
+
