@@ -15,3 +15,13 @@ https://github.com/ipfs/kubo#map-of-implemented-subsystems
 
 ## IPFS article
 https://github.com/ipfs/awesome-ipfs#articles
+
+### Textile.io
+You can find a lot of stuff on DHTs(how do we find content & peers in the network?)
+https://medium.com/textileio
+
+### Understanding the IPFS White Paper part 1
+https://decentralized.blog/understanding-the-ipfs-white-paper-part-1.html
+
+### Understanding the IPFS White Paper part 2
+Understanding the IPFS White Paper part 1
