@@ -31,3 +31,6 @@ Understanding the IPFS White Paper part 1
 ## https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/
 
 ## https://www.freecodecamp.org/news/from-zero-to-interplanetary-hero-7e62f7d4427/
+
+## Package importer implements utilities used to create IPFS DAGs from files
+https://github.com/ipfs/go-unixfs/blob/master/importer/importer.go
