@@ -34,3 +34,5 @@ Understanding the IPFS White Paper part 1
 
 ## Package importer implements utilities used to create IPFS DAGs from files
 https://github.com/ipfs/go-unixfs/blob/master/importer/importer.go
+
+## https://github.com/ipfs/camp/tree/master/DEEP_DIVES
