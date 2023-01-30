@@ -36,3 +36,22 @@ Understanding the IPFS White Paper part 1
 https://github.com/ipfs/go-unixfs/blob/master/importer/importer.go
 
 ## https://github.com/ipfs/camp/tree/master/DEEP_DIVES
+
+# libp2p swithch (swarm)
+
+## https://blog.cryptostars.is/libp2p-the-network-engine-behind-ethereum-polkadot-and-ipfs-bc2686affa6d
+
+###Transport
+
+###Security
+The peer id is a cryptographic hash of a peer’s public key.
+
+###Peer routing
+Peer routing in libp2p uses a distributed hash table to iteratively route requests closer to the desired peer id using Kahdemlia algorithm.
+
+###Content discovery
+That can be achieved by content routing interface with same implementation of Kahdemlia algorithm.
+
+###Pub Sub
+
+## https://docs.libp2p.io/concepts/appendix/glossary/#swarm
