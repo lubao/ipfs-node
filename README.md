@@ -37,7 +37,7 @@ https://github.com/ipfs/go-unixfs/blob/master/importer/importer.go
 
 ## https://github.com/ipfs/camp/tree/master/DEEP_DIVES
 
-# libp2p swithch (swarm)
+# libp2p switch (swarm)
 
 ## https://blog.cryptostars.is/libp2p-the-network-engine-behind-ethereum-polkadot-and-ipfs-bc2686affa6d
 
