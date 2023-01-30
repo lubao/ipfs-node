@@ -39,19 +39,21 @@ https://github.com/ipfs/go-unixfs/blob/master/importer/importer.go
 
 # libp2p switch (swarm)
 
-## https://blog.cryptostars.is/libp2p-the-network-engine-behind-ethereum-polkadot-and-ipfs-bc2686affa6d
+## Ref
+https://blog.cryptostars.is/libp2p-the-network-engine-behind-ethereum-polkadot-and-ipfs-bc2686affa6d
+https://docs.libp2p.io/concepts/appendix/glossary/#swarm
 
-###Transport
+## Transport
 
-###Security
+## Security
 The peer id is a cryptographic hash of a peer’s public key.
 
-###Peer routing
+## Peer routing
 Peer routing in libp2p uses a distributed hash table to iteratively route requests closer to the desired peer id using Kahdemlia algorithm.
 
-###Content discovery
+## Content discovery
 That can be achieved by content routing interface with same implementation of Kahdemlia algorithm.
 
-###Pub Sub
+## Pub Sub
 
-## https://docs.libp2p.io/concepts/appendix/glossary/#swarm
+
